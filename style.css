@@ -5,6 +5,7 @@
   --light-gray: ghostwhite;
   --yellow: gold;
   --green: palegoldenrod;
+  --white: white;
 }
 
 body {
@@ -18,7 +19,7 @@ body {
 }
 
 article {
-  background-color: white;
+  background-color: var(--white);
   corner-shape: squircle;
   border: 1px solid var(--gray);
   border-radius: 6rem;
