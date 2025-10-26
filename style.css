@@ -76,7 +76,7 @@ header {
     height: 2rem;
     border-radius: 69rem;
 
-    position: fixed;
+    position: absolute;
 
     &.left {
       transform: translateX(-1rem);
