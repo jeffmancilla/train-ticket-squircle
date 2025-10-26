@@ -5,3 +5,4 @@ Followed along a fun syntax.fm CSS battle episode on [recreating a train ticket]
 - `corner-shape: squircle` !!!
 - using html elements: `dl`, `dt`, `dd`
 - `var`s at top of css for convenience
+- carbon design system is lit
